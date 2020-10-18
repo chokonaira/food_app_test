@@ -1,0 +1,1 @@
+export const HomeBanner = require("../../assets/images//new-home.jpeg");
